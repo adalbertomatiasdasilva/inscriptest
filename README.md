@@ -1,0 +1,2 @@
+# inscriptest
+inscript ps1
